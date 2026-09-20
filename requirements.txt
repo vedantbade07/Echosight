@@ -1,0 +1,9 @@
+qai_hub_models[whisper_base_en]
+onnxruntime-qnn
+transformers
+sounddevice
+numpy
+pillow
+mss
+pyttsx3
+keyboard
